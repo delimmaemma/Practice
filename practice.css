@@ -1,0 +1,26 @@
+aside{
+    width: 20%;
+    border: 1px solid black;
+    padding-left: 1px;
+    padding-right: 1px;
+    margin-left: 1px;
+    padding-top: 1px;
+    float: right;
+    background-color: goldenrod;
+}
+.text{
+    font-size: 15pt;
+}
+h3{
+    text-align: center;
+    font-size: 2em;
+}
+p{
+    font-size: 1em;
+}
+table{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    text-align: justify;
+    border-collapse: collapse;
+}
