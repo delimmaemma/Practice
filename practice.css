@@ -18,9 +18,18 @@ h3{
 p{
     font-size: 1em;
 }
+.select{
+    margin-left: 100px;
+    margin-right: 100px;
+    align-items: center;
+}
 table{
     font-family:'Times New Roman', Times, serif;
     font-size: 1.5em;
     text-align: justify;
     border-collapse: collapse;
+}
+td {
+    font-size: .75em;
+    text-align: center;
 }
